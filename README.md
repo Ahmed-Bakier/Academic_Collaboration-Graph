@@ -1,4 +1,4 @@
-# Academic_Collaboration-Graph
+
 # Academic Collaboration Graph Project
 
 ## Description
